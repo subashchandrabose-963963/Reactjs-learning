@@ -46,7 +46,7 @@ const CrudPage = () => {
             })
             .finally(() => {
                 setLoading(false);
-                setIsCreateModalVisible(false);
+                setIsCreateModalVisible (false);
                 getEmployees();
             });
     };
