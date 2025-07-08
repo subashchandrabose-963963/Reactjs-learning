@@ -93,7 +93,7 @@ const CrudPage = () => {
 
             <div className="flex  items-center justify-center gap-3">
                 <div className="flex flex-col items-center justify-center">
-                    <h1 className="text-2xl font-bold mb-4">Employees</h1>
+                    <h1 className="text-2xl font-bold mb-4">Hi Employees</h1>
                     <p>List of employees fetched from the JSON server:</p>
                 </div>
                 <div>
